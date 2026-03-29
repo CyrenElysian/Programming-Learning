@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/C++/Competition/High_Accuracy/High_Accuracy_Minus/cmake-build-debug",
-		"source" : "D:/C++/Competition/High_Accuracy/High_Accuracy_Minus"
+		"build" : "D:/C++/Competition/Basic Algorithm/High_Accuracy/High_Accuracy_Minus/cmake-build-debug",
+		"source" : "D:/C++/Competition/Basic Algorithm/High_Accuracy/High_Accuracy_Minus"
 	},
 	"version" : 
 	{
