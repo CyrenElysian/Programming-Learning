@@ -1,0 +1,8 @@
+# ninja log v6
+2	1019	7956242132062413	CMakeFiles/Divisor.dir/main.cpp.obj	2dff4154fb8bfb28
+990	1066	7956270720462467	Divisor.exe	f3cbe031593381b9
+15	61	7956270101904514	CMakeFiles/Divisor.dir/869.cpp.obj	e0903ac3a6a163ff
+13	990	7956270710697222	CMakeFiles/Divisor.dir/870.cpp.obj	e66bf7c306b0fb
+25	1476	7957970055894992	CMakeFiles/Divisor.dir/872.cpp.obj	491cd9e4ad0f84d6
+19	1478	7957970055844939	CMakeFiles/Divisor.dir/870.cpp.obj	e66bf7c306b0fb
+22	1500	7957970055876055	CMakeFiles/Divisor.dir/871.cpp.obj	af14fa03131b8d60

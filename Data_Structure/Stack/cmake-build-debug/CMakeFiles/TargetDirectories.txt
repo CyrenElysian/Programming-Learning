@@ -1,0 +1,3 @@
+D:/C++/Competition/Data_Structure/Stack/cmake-build-debug/CMakeFiles/Stack.dir
+D:/C++/Competition/Data_Structure/Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C++/Competition/Data_Structure/Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
