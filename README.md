@@ -1,2 +1,2 @@
-# Competition
-Study hard and make progress every day.
+AcWing算法基础课第一轮
+

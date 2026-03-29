@@ -1,4 +1,4 @@
-# Install script for directory: D:/C++/Competition/lanqiao/Sort
+# Install script for directory: D:/C++/Competition/Basic Algorithm/Sort
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/C++/Competition/lanqiao/Sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/C++/Competition/Basic Algorithm/Sort/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

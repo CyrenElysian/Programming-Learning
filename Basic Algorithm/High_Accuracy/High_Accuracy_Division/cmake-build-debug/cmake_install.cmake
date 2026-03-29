@@ -1,4 +1,4 @@
-# Install script for directory: D:/C++(Clion)/Competition/High_Accuracy/High_Accuracy_Division
+# Install script for directory: D:/C++/Competition/Basic Algorithm/High_Accuracy/High_Accuracy_Division
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/C++(Clion)/Competition/High_Accuracy/High_Accuracy_Division/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/C++/Competition/Basic Algorithm/High_Accuracy/High_Accuracy_Division/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
